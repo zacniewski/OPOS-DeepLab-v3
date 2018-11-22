@@ -20,15 +20,15 @@ Obraz nr 1
 
 Rezultat  
 
-![Rezultat nr 1](/results/rozprowadzenie.png)
+![Rezultat nr 1](/results/rozprowadzenie2.png)
 
 Obraz nr 2  
 
-![Obraz nr 1](/images/pogrzebmarynarski.jpg)
+![Obraz nr 1](/images/pogrzebmarynarski2.jpg)
 
 Rezultat  
 
-![Rezultat nr 1](/results/pogrzeb.png)
+![Rezultat nr 1](/results/pogrzeb2.png)
 
 ## Trenowanie na własnym zbiorze danych
 Coming soon ...

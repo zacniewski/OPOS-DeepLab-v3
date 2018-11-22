@@ -181,7 +181,7 @@ print('Model loaded successfully!')
 
 # Testowanie
 
-SAMPLE_IMAGE = '11 05 Rozprowadzenie 001'  # @param ['image1', 'image2', 'image3']
+SAMPLE_IMAGE = 'pogrzebmarynarski'  # @param ['image1', 'image2', 'image3']
 IMAGE_URL = ''  #@param {type:"string"}
 
 _SAMPLE_URL = ('https://github.com/tensorflow/models/blob/master/research/'
