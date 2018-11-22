@@ -5,7 +5,7 @@ Implementacja algorytmu DeepLab-v3
 ### Instalacja
 1. Wymagane pakiety do uruchomienia kodu określono w pliku requirements.txt
 
-2. Optymalna wersja Pythona to >3.4
+2. Optymalna wersja Pythona to > 3.4
 
 ## Uruchomienie
 ```bash
@@ -24,11 +24,11 @@ Rezultat
 
 Obraz nr 2  
 
-![Obraz nr 1](/images/pogrzebmarynarski2.jpg)
+![Obraz nr 2](/images/pogrzebmarynarski.jpg)
 
 Rezultat  
 
-![Rezultat nr 1](/results/pogrzeb2.png)
+![Rezultat nr 2](/results/pogrzeb2.png)
 
 ## Trenowanie na własnym zbiorze danych
 Coming soon ...
