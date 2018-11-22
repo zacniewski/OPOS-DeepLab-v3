@@ -1,0 +1,11 @@
+numpy
+scipy
+Pillow
+matplotlib
+scikit-image
+tensorflow>=1.6.0
+Pillow
+CUDA 9.0 + cuDNN 7.0.5
+h5py
+imgaug
+
